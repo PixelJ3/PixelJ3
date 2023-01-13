@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **BootStrap and React**
 
-- 👨‍💻 All of my projects are available at https://gerardosportfolio.netlify.app
+- 👨‍💻 All of my projects are available at gerardoreyesportfolio.com
 
 - 💬 Ask me about **Html5, CSS3, JavaScript**
 
